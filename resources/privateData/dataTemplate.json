@@ -1,0 +1,11 @@
+{
+  "phones": {
+    "phoneText": "+7 (***) ***-**-**",
+    "phoneNumber": 7999999999
+  },
+  "links": {
+    "vk": "https://vk.com/***",
+    "watsApp": "https://api.whatsapp.com/send?phone=***",
+    "telegram": "https://t.me/***"
+  }
+}
